@@ -53,7 +53,10 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">São Paulo</a>
+                                            <a href="#">Sao Paulo</a>
+                                        </li>
+                                                                                <li>
+                                            <a href="#">Rio de Janeiro</a>
                                         </li>
                                     </ul>
                                 </li>
