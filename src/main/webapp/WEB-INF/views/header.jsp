@@ -56,7 +56,7 @@
                                             <a href="#">Sao Paulo</a>
                                         </li>
                                         <li>
-                                            <a href="#">Belo Horizonte</a>
+                                            <a href="#">Belo Horizonte.</a>
                                         </li>
                                     </ul>
                                 </li>
