@@ -42,6 +42,9 @@
                                     <a href="/jobs">Jobs</a>
                                 </li>
                                 <li>
+                                    <a href="/">COVID-19</a>
+                                </li>
+                                <li>
                                     <a href="#">
                                         Locations
                                     </a>
