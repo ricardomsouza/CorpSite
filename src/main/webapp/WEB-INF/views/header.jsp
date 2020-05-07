@@ -58,15 +58,6 @@
                                         <li>
                                             <a href="#">Rio de Janeiro</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Mongagua</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Ibiuna</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Blumenau</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>
