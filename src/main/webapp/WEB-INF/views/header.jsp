@@ -58,12 +58,6 @@
                                         <li>
                                             <a href="#">Rio de Janeiro</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Belo Horizonte</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Brasilia</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>
