@@ -55,14 +55,8 @@
                                         <li>
                                             <a href="#">Sao Paulo</a>
                                         </li>
-                                          <li>
-                                            <a href="#">Goania City</a>
-                                        </li>
                                         <li>
                                             <a href="#">Rio de Janeiro</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Belo Horizonte</a>
                                         </li>
                                     </ul>
                                 </li>
