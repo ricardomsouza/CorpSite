@@ -55,6 +55,9 @@
                                         <li>
                                             <a href="#">Sao Paulo</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Rio de Janeiro</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
