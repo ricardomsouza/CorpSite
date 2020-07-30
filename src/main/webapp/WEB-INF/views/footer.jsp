@@ -2,7 +2,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-4">
-                            <a href="#">.<img class="image-xxs fade-half" alt="Pic" src="resources/img/logo-light.png"></a>
+                            <a href="#"><img class="image-xxs fade-half" alt="Pic" src="resources/img/logo-light.png"></a>
                         </div>
 
                         <div class="col-sm-4 text-center">
