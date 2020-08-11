@@ -59,7 +59,7 @@
                                             <a href="#">Rio de Janeiro</a>
                                         </li>
                                         <li>
-                                            <a href="#">Porto Alegre</a>
+                                            <a href="#">Porto Alegre-RS</a>
                                         </li>
                                     </ul>
                                 </li>
