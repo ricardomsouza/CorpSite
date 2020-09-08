@@ -61,9 +61,6 @@
                                         <li>
                                             <a href="#">Porto Alegre</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Belo Horizonte</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>
