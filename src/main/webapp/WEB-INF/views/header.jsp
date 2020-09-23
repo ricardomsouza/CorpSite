@@ -58,6 +58,9 @@
                                         <li>
                                             <a href="#">Jaguariuna</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Belo Horizonte</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
